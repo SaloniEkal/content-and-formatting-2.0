@@ -1,0 +1,60 @@
+
+         header{
+             background:#f0e4d7;
+             color: cornsilk;
+             padding: 5%;
+             height: 50px;
+             display: block;
+             
+         }
+         footer git{
+             font-size: 5px;
+         }
+         header head12{
+            text-align: center;
+         }
+
+         footer{
+             backgro;
+             text-align: center;
+             text-decoration-color: ivory;
+             font-size: 50px;
+             background-color:#e4bad4;
+             color: black;
+             padding: 20%;
+             
+             
+         }
+         
+         a{
+             text-decoration: none;
+             color:black;
+             font-size: 30px;
+         }
+         a :hover{
+             text-decoration: underline;
+             background-color:peachpuff;
+         }
+        li:last-child{
+            margin-right: 0px;
+        }
+         body{
+             background-color: rgb(58,58,58);
+             color: white;
+             margin:0;
+             padding:0;
+             
+         }
+         ul{
+             margin: 0;
+             padding: 0;
+             list-style-type: none;
+
+         }
+         li{
+             display: inline-block;
+             margin-left: 20px;
+         }
+
+
+     

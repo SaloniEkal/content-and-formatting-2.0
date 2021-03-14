@@ -1,0 +1,19 @@
+body{
+  background-color:white;
+  font-size:1.2em;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.container{
+  margin-left: 20px;
+}
+.imgs{
+  padding:5px;
+  border: 1px solid;
+  height:150px;
+  width: 50%;
+}

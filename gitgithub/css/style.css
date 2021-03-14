@@ -1,0 +1,92 @@
+body {
+  font-style: italic;
+  margin-left: 20px;
+  padding-top: 10px;
+  background-color:white;
+}
+header{
+  background:#f0e4d7;
+  color: cornsilk;
+  padding: 5%;
+  height: 50px;
+  display: block;
+}
+h1{
+  color:#cdac81;
+  padding-top: 10px;
+  font-size: 30px;
+  text-align: center;
+}
+h3{
+  color:#30475e;
+}
+hr {
+  background-color: white;
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+/************************************CLASS**************************/
+.title{
+  padding-top: 10px;
+  font-size: 30px;
+}
+
+.top-container{
+  position: relative;
+  padding-top: 100px;
+}
+
+.left-container{
+  /*content*/
+  padding: 10px;
+  margin: 10px;
+  float: left;
+  height: 500px;
+  width: 300px;
+  text-align: left;
+  background-color: white;
+  border:solid;
+}
+.content{
+  font-size:1em;
+  margin: 5px;
+  margin-left: 5px;
+  text-align: 400px;
+
+
+}
+.right-container{
+  /*margin-left: 10px;
+  float: right;
+  padding: 5px;
+  position: relative;
+  margin-top: -1300px;
+  height: 500px;
+  width: 300px;
+  text-align: center;
+  background-color: white;
+  border:solid;*/
+  padding: 10px;
+  margin-top: -1100px;
+  float: right;
+  margin-right: 10px;
+  height: 500px;
+  width: 300px;
+  text-align: centre;
+  background-color: white;
+  border:solid;
+}
+.middle-container{
+  text-align: center;
+  border: solid;
+  height: 500px;
+
+
+}
+.i1{
+  left:1100px;
+  top: 10px;
+  padding-bottom: 50px;
+}
